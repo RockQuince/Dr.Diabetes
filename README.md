@@ -15,7 +15,9 @@ E finaliza com a requisição de dados da sua Glicemia no periodo casual e assim
 Lembrando  
 Isso é apenas um projeto  
 Não tire conclusões precipitadas, sempre consulte a avaliação e consulta de um proficional especializado, se voce suspeita que esta com sistomas de Diabetes, va diretamente a um proficional.
-
+  
+Biblioteca utilizada no codigo foi a "scikit-learn"
+com auxilio da função "tree"
 <!--
 **RockQuince/RockQuince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
