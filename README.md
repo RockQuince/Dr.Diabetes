@@ -12,7 +12,7 @@ Quando for iniciado sera pedido primeiramente os dados de Glicemia no periodo de
 E então sera requisitado os dados no periodo de Pós-Sobrecarga, após ser preenchido e computado, avançará de etapa
 E finaliza com a requisição de dados da sua Glicemia no periodo casual e assim definir um resultado
 
-###Lembrando
+Lembrando
 Isso é apenas um projeto
 Não tire conclusões precipitadas, sempre consulte a avaliação e consulta de um proficional especializado, se voce suspeita que esta com sistomas de Diabetes, va diretamente a um proficional.
 
